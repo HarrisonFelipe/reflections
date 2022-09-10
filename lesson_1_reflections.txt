@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Because the diff was able to show the difference 
+between the lines of code, it was simple to pinpoint
+where the bug was in the code. Also, because the computer 
+is able to find these differences at a higher speed than I could, 
+it allowed me to save time finding this bug. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+This could be efficient because in the future, if 
+you ever would like to look at or revert your file 
+to a previous state, having all the previous versions
+would allow this. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Some pros of manually choosing when to create a commit 
+are that you can have control over what you have changed and when to commit, 
+and you are able to commit when something has been finished, not when you are still completing it.
+A con is that you can sometimes forget to make a commit. 
+A pro of automatic version saving is that even if you forget, your
+version is autmoatically saved. A con is that it could commit when you 
+don't want it to, potentially causing a save at the wrong time that doesn't have any value. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because the function for Git was intended for pragramming purposes, 
+it likely has this function for programming, while Google Docs is 
+more focused on being an independent word processor. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+By using git log, you can see all of the different saved versions of a file. 
+With git diff, you can compare those files to see how they changed. 
+
+How might using version control make you more confident to make changes that could break something?
+
+This might make you more confident as you will always have a backup, 
+so making decisions that could break things have less risk, as nothing 
+will break. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use git so that when I make a program, I can store previous versions of it that I can return to in the future. 
